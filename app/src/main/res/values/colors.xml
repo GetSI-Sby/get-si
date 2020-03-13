@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFE91E63</color>
+    <color name="colorPrimaryDark">#AA1145</color>
+    <color name="colorAccent">#EF4C83</color>
+    <color name="colorYellow">#DC718F</color>
+
+    <color name="view_line">#fcd5d5d5</color>
+    <color name="transpernet">#00000000</color>
+
+
+    <color name="splash_bg_color">#E91E63</color>
+
+    <color name="colorPrimarySoft">#DC718F</color>
+    <color name="colorPrimaryBuilding">#DC718F</color>
+
+    <color name="directionLine">#DC718F</color>
+
+    <color name="greytext">#e1e2e2</color>
+
+    <color name="blueSoft">#e1e2e2</color>
+    <color name="grey">#999ea0</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="brown">#b87e00</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blacksplash">#000000</color>
+    <color name="blue">#DC718F</color>
+    <color name="lightGrey">#f4f4f4</color>
+    <color name="cast_libraries_material_featurehighlight_text_body_color">#FFFFFF</color>
+    <color name="cast_expanded_controller_text_color">#FFFFFF</color>
+</resources>

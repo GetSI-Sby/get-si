@@ -1,0 +1,293 @@
+<resources>
+    <string name="app_name">Getsi</string>
+
+    <string name="main_menuHome">Beranda</string>
+    <string name="main_menuHistory">History</string>
+    <string name="main_menuHelp">Help</string>
+    <string name="main_menuSetting">Setting</string>
+    <string name="main_pickLocation">Pilih Lokasi</string>
+
+    <string name="home_mRide">Ride</string>
+    <string name="home_mCar">Mobil</string>
+    <string name="home_mFood">Makanan</string>
+    <string name="home_mMart">Mart</string>
+    <string name="home_mSend">Kirim</string>
+    <string name="home_mMassage">Pesan</string>
+    <string name="home_mBox">Box</string>
+    <string name="home_mService">Servis</string>
+    <string name="home_mAuto">Pulsa</string>
+    <string name="home_mClean">Clean</string>
+    <string name="home_mSchool">Travel</string>
+    <string name="home_mTour">Tour</string>
+    <string name="home_mGlam">Glam</string>
+    <string name="home_mBill">Bill</string>
+    <string name="home_mStore">Event</string>
+    <string name="home_mTicket">Ticket</string>
+    <string name="home_mMedical">Medical</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_firstName">First Name</string>
+    <string name="hint_lastName">Last Name</string>
+    <string name="hint_phoneNumber">Phone</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_dob">DOB</string>
+    <string name="hint_pob">POB</string>
+
+    <string name="text_mPay">Dompet</string>
+    <string name="text_cash">Cash</string>
+    <string name="text_topUp">Top Up</string>
+    <string name="text_order">Order</string>
+    <string name="text_next">Selanjutnya</string>
+    <string name="text_send">Kirim</string>
+    <string name="text_save">Simpan</string>
+    <string name="text_noInternet">No internet Access</string>
+    <string name="text_close">Tutup</string>
+    <string name="text_updating">Loading....</string>
+    <string name="text_addressNotAvailable">Alamat tidak tersedia.</string>
+    <string name="text_cancel">Batal</string>
+    <string name="text_profileName">Nama profil</string>
+
+    <string name="setting_profile">Profil</string>
+    <string name="setting_changePassword">Ganti Password</string>
+    <string name="setting_newPassword">Password Baru</string>
+    <string name="setting_confirmPassword">Confirm Password</string>
+    <string name="setting_privacyPolicy">Privacy Policy</string>
+    <string name="setting_faq">FAQ</string>
+    <string name="setting_mPayCredit">Dompet</string>
+    <string name="setting_termOfService">Term Of Service</string>
+    <string name="setting_rateApps">Rate Apps</string>
+    <string name="setting_callUs">Call Us</string>
+    <string name="setting_logout">Log Out</string>
+    <string name="setting_editProfile">Edit</string>
+
+    <string name="setting_nameDummy">Alfin Nurdiansyah</string>
+    <string name="setting_emailDummy">alfinnurdian@gmail.com</string>
+    <string name="setting_phoneDummy">+6285240257872</string>
+
+    <string name="history_inProgress">Sedang berlangsung</string>
+    <string name="history_completed">Komplit</string>
+
+    <string name="waiting_pleaseWait">Tunggu sebentar....</string>
+    <string name="waiting_desc">Kami sedang mencari driver terdekat</string>
+    <string name="mart_searchLocation">Cari Lokasi ...</string>
+
+    <string name="button_signIn">Masuk</string>
+    <string name="button_signUp">Daftar</string>
+    <string name="button_dontHaveAccount">Tidak Punya Akun?</string>
+    <string name="button_haveAccount">Punya Akun?</string>
+
+    <string name="dialog_loading">Memuat…</string>
+
+    <string name="ride_location">Lokasi</string>
+    <string name="ride_destination">Tujuan</string>
+
+    <string name="ride_note">Catatan</string>
+
+    <string name="ride_setPickUp">Setel Penjemputan</string>
+    <string name="ride_setDestination">Tetapkan Tujuan</string>
+
+    <string name="ride_price">Harga (0 Km)</string>
+    <string name="ride_cost">Rp 0 ,-</string>
+    <string name="ride_mPayBalance">Rp 0 ,-</string>
+    <string name="ride_discount">Diskon 20% with wallet</string>
+
+    <string name="mart_nearDriver">Driver Dekat</string>
+    <string name="mart_martName">Nama Mart</string>
+    <string name="mart_mart">Mart</string>
+    <string name="mart_location">Lokasi</string>
+    <string name="mart_order">Order</string>
+    <string name="mart_product">Produk</string>
+    <string name="mart_plus">+</string>
+    <string name="mart_minus">-</string>
+    <string name="mart_details">Detail</string>
+    <string name="mart_to">Tujuan</string>
+    <string name="mart_estimatedBiaya">Perkiraan biaya</string>
+    <string name="mart_useLocation">Tetapkan lokasi ini</string>
+
+    <string name="sender">Pengirim</string>
+    <string name="receiver">Penerima</string>
+    <string name="send_item_description">Keterangan Barang</string>
+    <string name="send_description">Deskripsi yang jelas</string>
+    <string name="send_sender_name">Nama pengirim</string>
+    <string name="send_sender_phone">Telepon</string>
+    <string name="send_receiver_name">Penerima</string>
+    <string name="send_receiver_phone">Telepon</string>
+    <string name="payment_method">Cara Pembayaran</string>
+    <string name="send_waktuDanAlamat">Waktu dan alamat</string>
+    <string name="send_tanggalDanJam">Tanggal</string>
+    <string name="send_alamatAsal">Asal</string>
+    <string name="send_alamatTujuan">Tujuan</string>
+    <string name="send_penerima">Pengirim</string>
+    <string name="send_nama">Nama</string>
+    <string name="send_nomor">Telepon</string>
+    <string name="send_namaBarang">Nama barang</string>
+    <string name="send_alamat">Alamat</string>
+
+    <string name="mbox_cargo">Kendaraan apa yang Anda perlukan untuk memindahkan barang-barang Anda?</string>
+    <string name="mbox_pickup">PICKUP</string>
+    <string name="mbox_truck">TRUCK</string>
+    <string name="mbox_dimension">Dimention 200x130x120</string>
+    <string name="mbox_maxweight">Max Weight 1000kg</string>
+    <string name="mbox_drivernear">pengemudi terdekat</string>
+    <string name="mbox_origin">Asal</string>
+    <string name="mbox_destination">Tujuan</string>
+    <string name="mbox_location">Lokasi</string>
+    <string name="mbox_location_detail">Lokasi Detail</string>
+    <string name="mbox_destname">Nama pengirim</string>
+    <string name="mbox_contact_person">Contact (Optional)</string>
+    <string name="mbox_contact_receiver">Contact (Required)</string>
+    <string name="mbox_name">Nama</string>
+    <string name="mbox_phone">Telepon</string>
+    <string name="mbox_instruction">Instruksi (opsional)</string>
+    <string name="mbox_nextdest">Tujuan selanjutnya</string>
+    <string name="mbox_remove">Menghapus</string>
+    <string name="mbox_item_deliver">Barang Terkirim</string>
+    <string name="mbox_items">Barang</string>
+    <string name="mbox_note_items">Catatan barang</string>
+    <string name="mbox_extra_feature">Fitur Ekstra</string>
+    <string name="mbox_loading_service">Layanan Pemuatan</string>
+    <string name="mbox_note">Catatan</string>
+    <string name="mbox_note_extra_feature">Pengemudi hanya membantu Anda menaikkan dan menurunkan barang dari kendaraan, jika Anda membutuhkan bantuan lebih lanjut, periksa asisten tambahan</string>
+    <string name="mbox_note_insurance">Pilih jumlah premi dan ruang lingkup asuransi sesuai dengan nilai barang dan kebutuhan Anda</string>
+    <string name="mbox_additional">1 tambahan</string>
+    <string name="mbox_picknow">Pilih Sekarang</string>
+    <string name="mbox_picklater">Pilih Nanti</string>
+    <string name="mbox_insurance">Insurance</string>
+    <string name="mbox_insurance_count">Rp 0,-</string>
+    <string name="mbox_insurance_upto">Insurance Up To Rp 0,- </string>
+    <string name="mbox_ganti_opsi">Ubah Ops</string>
+    <string name="mbox_booking">Pemesanan</string>
+    <string name="mbox_term">setuju dengan syarat dan ketentuan</string>
+    <string name="mbox_detail">Detail</string>
+    <string name="mbox_noloading">Tidak Ada Layanan Memuat</string>
+    <string name="mbox_discount_code">Voucher Kode</string>
+    <string name="mbox_input_code">Kode Masukan</string>
+    <string name="mbox_btn_active">Aktivation</string>
+    <string name="mbox_payment">Pembayaran</string>
+    <string name="mbox_price">Harga</string>
+    <string name="mbox_loadingservice">Layanan Pemuatan</string>
+    <string name="mbox_paywith">Bayar menggunakan</string>
+    <string name="mbox_payment_method">Cara Pembayaran</string>
+    <string name="mbox_setloc">Tetapkan Lokasi</string>
+    <string name="mbox_discount">Diskon</string>
+
+    <string name="service_ac">Layanan AC</string>
+    <string name="service_layanan">Layanan</string>
+    <string name="service_actype">Jenis AC</string>
+    <string name="service_quantity">QTY</string>
+    <string name="service_residential">Jenis Tempat Tinggal</string>
+    <string name="service_problem">Masalah</string>
+    <string name="service_promotion">Kode promosi</string>
+    <string name="service_date">Tanggal</string>
+    <string name="service_time">Waktu</string>
+    <string name="service_price">Harga</string>
+    <string name="setloc">Tetapkan Lokasi</string>
+    <string name="service_progress">Teknisi Anda akan membantu Anda untuk memperbaiki masalah AC Anda</string>
+
+    <string name="massage_pleaseWait">Tunggu sebentar…</string>
+    <string name="massage_massageType">Jenis Pijat</string>
+    <string name="massage_duration">Durasi</string>
+    <string name="massage_therapistPreference">Terapis Preferensi</string>
+    <string name="massage_yourGender">Jenis kelamin Anda</string>
+    <string name="lupa">Tidak ingat kata sandi?</string>
+
+    <string name="massage_therapist">Therapist</string>
+
+    <string name="massage_genderMale">Male</string>
+    <string name="massage_genderFemale">Female</string>
+    <string name="massage_genderNoPreference">No Prefer</string>
+    <string name="massage_60duration">60m</string>
+    <string name="massage_90duration">90m</string>
+    <string name="massage_120duration">120m</string>
+    <string name="massage_next">Next</string>
+    <string name="massage_location">Lokasi</string>
+    <string name="massage_dateTime">Date &amp; Time</string>
+    <string name="massage_scheduleAndAddress">Jadwal dan Alamat</string>
+    <string name="massage_price">Harga</string>
+    <string name="massage_orderDetails">Detail pesanan</string>
+    <string name="massage_additionalNotes">Catatan tambahan</string>
+    <string name="massage_tanggalPesanan">Waktu pemesanan tidak boleh kurang dari waktu saat ini.</string>
+    <string name="massage_cost">Rp 1.5 ,-</string>
+    <string name="massage_mPayBalance">Rp 0 ,-</string>
+    <string name="massage_discount">Diskon 25% Dengan Dompet</string>
+    <string name="massage_status">Status</string>
+    <string name="massage_cancel">Cancel</string>
+    <string name="massage_cost_text">Biaya</string>
+
+    <string name="title_activity_in_progress">Sedang berlangsung</string>
+    <string name="title_activity_rate_driver">Beri peringkat pada Driver</string>
+    <string name="title_activity_help">Dapatkah saya membantu Anda?</string>
+    <string name="title_activity_chat">Obrolan</string>
+    <string name="title_activity_update_profile">Memperbaharui profil</string>
+    <string name="title_activity_change_password">Ganti kata sandi</string>
+    <string name="title_activity_term_of_service">Term of Service</string>
+    <string name="title_activity_privacy_policy">Privacy Policy</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_faq">Pertanyaan yang Sering Diajukan</string>
+    <string name="title_activity_top_up">Top Up</string>
+
+    <array name="list_bank">
+        <item>Bank BCA</item>
+        <item>Bank BNI</item>
+        <item>Bank Mandiri</item>
+        <item>Bank Lainnya</item>
+    </array>
+
+    <string-array name="mpay">
+        <item>Tunai</item>
+        <item>Wallet</item>
+    </string-array>Biaya pengiriman
+
+    <string name="title_activity_history_detail">Detail Sejarah</string>
+    <string name="title_activity_send">KIRIM</string>
+    <string name="title_activity_add_detail_send">Tambahkan Detail</string>
+
+    <string name="food_search">Apa yang ingin kamu makan hari ini?</string>
+    <string name="food_near">Dekat</string>
+    <string name="food_neardesc">Lihat Restoran / Kafe Terdekat</string>
+    <string name="food_explore">Jelajahi</string>
+    <string name="food_see">Lihat semua</string>
+    <string name="food_menu">MENU</string>
+    <string name="food_makanan">Makanan</string>
+    <string name="food_notes">Tambahkan Catatan</string>
+    <string name="food_estimated">Estimasi biaya</string>
+    <string name="food_addtocart">Menambahkan</string>
+    <string name="food_booking">Konfirmasi</string>
+    <string name="food_itemorder">Pesanan Barang</string>
+    <string name="food_deliver">Kirim</string>
+    <string name="food_destination">Tambahkan Tujuan</string>
+    <string name="food_payment">Pembayaran</string>
+    <string name="food_cost">Cost (Est)</string>
+    <string name="food_delivery">Biaya pengiriman</string>
+    <string name="food_total">Total</string>
+    <string name="food_cash">Cash</string>
+    <string name="food_pay">Bayar menggunakan</string>
+    <string name="food_searchRestaurant">Cari Restoran</string>
+    <string name="food_minimum3Chars">Minimum 3 karakter</string>
+    <string name="food_tryAnotherSearchTerm">Tidak ada hasil, coba kata kunci lainnya.</string>
+    <string name="food_noRecordFound">Tidak ditemukan.</string>
+    <string name="food_addNotes">Tambahkan Catatan</string>
+    <string name="food_itemsToOrder">Barang Sesuai Pesanan</string>
+    <string name="food_partner">Vendor</string>
+    <string name="food_closed">Tutup</string>
+    <string name="near_food">Makanan Dekat</string>
+    <string name="manual_food">Pesanan Manual</string>
+    <string name="all_food">All Category</string>
+
+    <string name="nominal">Nominal</string>
+    <string name="acc_name">Nama akun</string>
+    <string name="acc_number">Nomor akun</string>
+    <string name="hint_verif">Nomor telepon</string>
+    <string name="verif_no">Verifikasi</string>
+    <string name="hint_telp">masukkan 6 kode</string>
+    <string name="kirim_no">Kirim Nomor Telepon</string>
+    <string name="kirim_ulang">Kirim lagi</string>
+
+    <string name="notification_cancel">Pesanan telah dibatalkan</string>
+    <string name="notification_start">ke lokasi tujuan</string>
+    <string name="notification_accept">Anda menemukan seorang pengemudi</string>
+    <string name="notification_finish">terima kasih telah menggunakan layanan kami</string>
+
+</resources>

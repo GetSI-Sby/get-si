@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/material_light_white"
+
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_marginTop="5dp"
+        android:weightSum="1"
+        android:orientation="horizontal">
+
+        <customfonts.TextViewSFProDisplayRegular
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="@string/food_cost"
+            android:textSize="16sp"
+            android:drawableLeft="@drawable/ic_mfood_cost" />
+
+        <customfonts.TextViewSFProDisplayRegular
+            android:id="@+id/food_cost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="right"
+            android:padding="5dp"
+            android:layout_marginRight="15dp"
+            android:text="$. 2.3"
+            android:textSize="16sp"
+            android:textColor="@color/material_blue_grey_700" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:weightSum="1"
+        android:orientation="horizontal">
+
+        <customfonts.TextViewSFProDisplayRegular
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="@string/food_delivery"
+            android:textSize="16sp"
+            android:drawableLeft="@drawable/ic_mfood_cost" />
+
+        <customfonts.TextViewSFProDisplayRegular
+            android:id="@+id/delivery_cost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="right"
+            android:padding="5dp"
+            android:layout_marginRight="15dp"
+            android:text="$. 2.3"
+            android:textSize="16sp"
+            android:textColor="@color/material_blue_grey_700" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/blueSoft" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:weightSum="1"
+        android:orientation="horizontal">
+
+        <customfonts.TextViewSFProDisplayMedium
+            android:id="@+id/text_service"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="center_vertical"
+            android:paddingLeft="35dp"
+            android:text="@string/food_total"
+            android:textSize="18sp" />
+
+        <customfonts.TextViewSFProDisplayMedium
+            android:id="@+id/value_service"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="right"
+            android:padding="5dp"
+            android:layout_marginRight="15dp"
+            android:text="$. 2.3"
+            android:textSize="16sp"
+            android:textColor="@color/material_blue_grey_700" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:weightSum="1"
+        android:background="@color/material_green_400"
+        android:orientation="horizontal">
+
+        <customfonts.TextViewSFProDisplayMedium
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="@string/food_cash"
+            android:textSize="16sp"
+            android:textColor="@color/material_light_white"
+            android:drawableLeft="@drawable/ic_mfood_cost" />
+
+        <customfonts.TextViewSFProDisplayMedium
+            android:id="@+id/food_cash"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="right"
+            android:padding="5dp"
+            android:layout_marginRight="15dp"
+            android:text="$. 2.3"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/material_light_white" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorPrimaryDark" />
+</LinearLayout>
